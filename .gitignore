@@ -16,6 +16,7 @@ gradle-app.setting
 
 .project
 .classpath
-.cache-main
+.cache-*
 .settings
 *.log
+target
