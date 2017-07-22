@@ -6,3 +6,5 @@ This is a sample scala project that uses Gradle instead of SBT. To run the proje
 This project includes basic logging via slf4j. It also includes a repl if you would like to load your application onto the classpath and test it. Simply execute `./repl.sh`. 
 
 Specs2 output can be a little wacky - for well formatted test output, run your tests with `./test.sh`.
+
+The easiest way to get up and running is to duplicate GradleScalaSeed using the [instructions here](https://help.github.com/articles/duplicating-a-repository/)
